@@ -3,7 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="blank">lovely</div>
+    <>
+   <nav>
+    <li>Home</li>
+    <li>About</li>
+    <li>Contact</li>
+
+   </nav>
+   </>
   );
 }
     
